@@ -23,7 +23,7 @@ class Program
 
     static void RunExecutable(int coreIndex)
     {
-        string executablePath = "path/to/your/executable.exe";
+        string executablePath = "path/to/your/coreworker.exe";
         ProcessStartInfo startInfo = new ProcessStartInfo
         {
             FileName = executablePath,
@@ -34,10 +34,10 @@ class Program
 
         using (Process process = Process.Start(startInfo))
         {
-            Console.WriteLine($"Started executable on core {coreIndex}");
+            Console.WriteLine($"Started coreworker on core {coreIndex}");
             string output = process.StandardOutput.ReadToEnd();
             process.WaitForExit();
-            Console.WriteLine($"Executable on core {coreIndex} completed. Output: {output}");
+            Console.WriteLine($"coreworker on core {coreIndex} completed. Output: {output}");
         }
     }
 }

@@ -10,7 +10,7 @@
 | Old version, no longer maintained: .NET 5 | November 10, 2020 | Visual Studio 2019 Version 16.8 | 5.0.17 | May 10, 2022 | May 10, 2022 | 1.5 years |
 | Older version, yet still maintained: .NET 6 | November 8, 2021  | [Visual Studio 2022]   | May 28, 2024 | November 12, 2024 | 3 years |
 | Old version, no longer maintained: .NET 7 | November 8, 2022  | Visual Studio 2022 Version 17.4 | 7.0.19 | May 14, 2024 | May 14, 2024 | 1.5 years |
-| Current stable version: **.NET 8** | November 14, 2023  | Visual Studio 2022 Version 17.8 | 8.0.6 **LTS**   | May 28, 2024 | November 10, 2026 | 3 years |
+| 2024Q4 stable version: **.NET 8** | November 14, 2023  | Visual Studio 2022 Version 17.8 | 8.0.6 **LTS**   | May 28, 2024 | November 10, 2026 | 3 years |
 | Latest preview version of a future release: .NET 9 | November 2024 (projected) |     | 9.0.0-preview.7 | August 13, 2024 | May 2026 (projected) | 1.5 years (projected) |
 | Future release: .NET 10 | November 2025 (projected) |     |   |
 | **Legend**: **LTS** == Long Term Release |     |     |     |     |     |     |
